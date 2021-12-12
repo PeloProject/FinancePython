@@ -29,13 +29,6 @@ def get_brand(code):
         market = q.find('.si_i1_1 span')[1].text
         unit = q.find('#kobetsu_left td')[17].text.split()[0]
         sector = q.find('#stockinfo_i2 a')[0].text
-        #name = q.find('#kobetsu_right > h4')[0].text
-        #short_name = q.find('td.kobetsu_data_table1_meigara').text
-        #market = q.fine('td.kobetsu_data_table1meigara + td').text
-        #unit_str = q.fine('.stock_st_table:eq(1) > tr:eq(5) >' \
-        #                  ' td.tar:eq(0)')[0].text
-        #unit = int(unit_str.split()[0].replace(',',''))
-        #sector = q.find('.kobetsu_data_table2 a')[0].text
 
     except ValueError:
             return None

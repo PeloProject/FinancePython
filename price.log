@@ -1,0 +1,42 @@
+INFO:root:code :1301| page :1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=1 HTTP/1.1" 200 11676
+INFO:root:code :1301| page :1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=1 HTTP/1.1" 200 11592
+INFO:root:code :1301| page :1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=1 HTTP/1.1" 200 11592
+INFO:root:code :1301| page :1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=1 HTTP/1.1" 200 11592
+INFO:root:code :1301| page :1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=1 HTTP/1.1" 200 11592
+INFO:root:code :1301| page :1
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=1 HTTP/1.1" 200 11592
+INFO:root:code :1301| page :2
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=2 HTTP/1.1" 200 11589
+INFO:root:code :1301| page :3
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=3 HTTP/1.1" 200 11555
+INFO:root:code :1301| page :4
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=4 HTTP/1.1" 200 11620
+INFO:root:code :1301| page :5
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=5 HTTP/1.1" 200 11638
+INFO:root:code :1301| page :6
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=6 HTTP/1.1" 200 11663
+INFO:root:code :1301| page :7
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=7 HTTP/1.1" 200 11668
+INFO:root:code :1301| page :8
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=8 HTTP/1.1" 200 11690
+INFO:root:code :1301| page :9
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/kabuka/?code=1301&ashi=day&page=9 HTTP/1.1" 200 11662
