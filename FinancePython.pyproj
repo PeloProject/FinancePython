@@ -34,10 +34,12 @@
     <Compile Include="src\モジュール1.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="database\" />
     <Folder Include="sqlquery\" />
     <Folder Include="src\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="database\kabutandb_test.sqlite3" />
     <Content Include="sqlquery\create_raw_price_table.sql" />
     <Content Include="sqlquery\create_table_applied_divide_union_data.sql" />
     <Content Include="sqlquery\create_table_brands.sql" />
