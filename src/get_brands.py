@@ -86,7 +86,7 @@ def insert_brands_to_db(db_file_name, code_range):
 
 
 # 実行
-insert_brands_to_db(config.DB_SAVE_DIR + "/kabutandb_test.sqlite3", range(1301,1310))
+insert_brands_to_db(config.DB_FILE_PATH, range(1301,1310))
 #get_brand(1301)
 
 

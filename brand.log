@@ -25,3 +25,6 @@ DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/?code=1308 HTTP/
 INFO:root:code :1309
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
 DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/?code=1309 HTTP/1.1" 200 12038
+INFO:root:code :1301
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): kabutan.jp:443
+DEBUG:urllib3.connectionpool:https://kabutan.jp:443 "GET /stock/?code=1301 HTTP/1.1" 200 13086
